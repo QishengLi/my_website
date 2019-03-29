@@ -1,0 +1,91 @@
+
+- id: LSC
+  title: "Latent Space Cartography: Visual Analysis of Vector Space Embeddings"
+  year: 2019
+  doi: 
+  preprint: 
+  official: 
+  authors:
+    - Yang Liu
+    - Eunice Jun
+    - Qisheng Li
+    - Jeffery Heer
+  venue: EuroVis
+  venue_tags:
+    - EuroVis
+  venue_location: Porto, Portugal
+  venue_url: https://www.eurovis.org/
+  highlight: true
+  link: 
+  type:
+    - Conference
+  conditional: true
+
+- id: reader-view
+  title: "The Impact of Web Browser Reader Views on Reading Speed and User Experience"
+  year: 2019
+  doi: 
+  preprint: /files/2019-Reader-View-CHI.pdf
+  official: 
+  authors:
+    - Qisheng Li
+    - Meredith Ringel Morris
+    - Adam Fourney
+    - Kevin Larson
+    - Katharina Reinecke
+  venue: CHI
+  venue_tags:
+    - CHI
+  venue_location: Glasgow, UK
+  venue_url: https://chi2019.acm.org/
+  highlight: true
+  link: 
+  type:
+    - Conference
+
+- id: volunteer-disabilities
+  title: "Volunteer-Based Online Studies With Older Adults and People with Disabilities"
+  year: 2018
+  doi: 10.1145/3234695.3236360
+  preprint: /files/2018-Volunteer-Disabilities-ASSETS.pdf
+  official: https://dl.acm.org/citation.cfm?id=3236360
+  authors:
+    - Qisheng Li
+    - Krzysztof Z. Gajos
+    - Katharina Reinecke
+  venue: ASSETS
+  venue_tags:
+    - ASSETS
+  venue_location: Galway, Ireland
+  venue_url: https://assets18.sigaccess.org
+  highlight: true
+  link: 
+  type:
+    - Conference
+
+- id: cartograph
+  title: "Cartograph: Unlocking Thematic Cartography Through Semantic Enhancement"
+  year: 2017
+  doi: 10.1145/3025171.3025233
+  preprint: /files/2017-Cartograph-IUI.pdf
+  official: https://dl.acm.org/citation.cfm?id=3025233
+  authors:
+    - Shilad Sen
+    - Anja Beth Swoap
+    - Qisheng Li
+    - Brooke Boatman
+    - Ilse Dippenaar
+    - Rebecca Gold
+    - Monica Ngo
+    - Sarah Pujol
+    - Bret Jackson
+    - Brent Hecht
+  venue: IUI
+  venue_tags:
+    - IUI
+  venue_location: Limassol, Cyprus
+  venue_url: http://iui.acm.org/2017/
+  highlight: true
+  link: 
+  type:
+    - Conference

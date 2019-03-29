@@ -1,0 +1,8 @@
+<div class="award">
+  <ul>
+    <li>
+      <time datetime="{{ award.date }}">{{ award.date | date: "%Y" }}</time>:
+      {{ award.title | markdownify | remove: '<p>' | remove: '</p>' }}
+    </li>
+  </ul>
+</div>

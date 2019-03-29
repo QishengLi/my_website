@@ -1,0 +1,8 @@
+<div class="news">
+	<ul>
+		<li>
+		  <time datetime="{{ news.date }}">{{ news.date | date: "%b %Y" }}</time>: 
+		  {{ news.message | markdownify | remove: '<p>' | remove: '</p>' }}
+		</li>
+	</ul>
+</div>

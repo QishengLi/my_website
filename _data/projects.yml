@@ -1,0 +1,22 @@
+
+- title: Reading Test
+  url: http://labinthewild.org/studies/reading_test
+  slogan: What is your reading speed?
+  description: A LabintheWild study testing reading speed and user experience.
+  paper: /files/2019-Reader-View-CHI.pdf
+  image: reading-test.jpg
+
+- title: Peripheral Vision
+  url: http://labinthewild.org/studies/peripheral-vision
+  slogan: A LabintheWild test about your peripheral vision. Try it out!
+  description: A LabintheWild test about your peripheral vision.
+  paper:
+  image: peripheral-vision.jpg
+
+
+- title: Cartograph
+  url: http://nokomis.macalester.edu/wmf_en/static/index.html
+  slogan: Thematic Maps of Wikipedia.
+  description: Thematic Maps of Wikipedia.
+  paper: /files/2017-Cartograph-IUI.pdf
+  image: cartograph.png
