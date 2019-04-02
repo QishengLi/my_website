@@ -1,3 +1,3 @@
 ## My Personal Website
 
-bundle exec jekyll serve
+RUN: `bundle exec jekyll serve`
