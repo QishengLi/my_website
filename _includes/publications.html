@@ -45,7 +45,7 @@
     {% endif %}
 
     {% if pub.preprint %}
-      <a target="_blank" href="{{ pub.preprint }}">
+      <a target="_blank" href="{{ pub.preprint | relative_url }}">
         <i class="far fa-file-pdf" aria-hidden="true"></i> Preprint PDF
       </a>
     {% endif %}
@@ -69,13 +69,13 @@
     {% endif %}
 
     {% if pub.slides %}
-      <a target="_blank" href="{{ pub.slides }}">
+      <a target="_blank" href="{{ pub.slides | relative_url }}">
         <i class="fas fa-window-maximize" aria-hidden="true"></i> Slides
       </a>
     {% endif %}
 
     {% if pub.doi %}
-      <a target="_blank" href="https://www.doi2bib.org/bib/{{ pub.doi | cgi_escape }}">
+      <a target="_blank" href="https://www.doi2bib.org/bib/{{ pub.doi }}">
         <i class="fas fa-book" aria-hidden="true"></i> Bibtex
       </a>
     {% elsif pub.arxiv %}

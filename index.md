@@ -82,5 +82,5 @@ For more details, please check out my [CV][cv].
 [kr-website]: https://homes.cs.washington.edu/~reinecke/index.html
 [labinthewild]: https://labinthewild.org
 [macalester]: http://macalester.edu
-[cv]: /files/Qisheng_Li_CV.pdf
+[cv]: /~liqs/files/Qisheng_Li_CV.pdf
 
