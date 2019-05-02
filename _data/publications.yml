@@ -1,9 +1,37 @@
+- id: cartograph_extend
+  title: "Toward Universal Spatialization Through Wikipedia-Based Semantic Enhancement"
+  year: 2019
+  doi: 10.1145/3213769
+  preprint: /files/2019-Sen-Cartograph.pdf
+  official: https://dl.acm.org/citation.cfm?doid=3320251.3213769
+  authors:
+    - Shilad Sen
+    - Anja Beth Swoap
+    - Qisheng Li
+    - Brooke Boatman
+    - Ilse Dippenaar
+    - Rebecca Gold
+    - Monica Ngo
+    - Sarah Pujol
+    - Bret Jackson
+    - Brent Hecht
+  venue: ACM Transactions on Interactive Intelligent Systems (TiiS)
+  venue_tags:
+    - 
+  venue_location: 
+  venue_url: 
+  awards: Special Issue on Highlights of ACM IUI 2017
+  highlight: true
+  link: http://nokomis.macalester.edu/wmf_en/static/index.html
+  type:
+    - Journal
+
 
 - id: LSC
   title: "Latent Space Cartography: Visual Analysis of Vector Space Embeddings"
   year: 2019
   doi: 
-  preprint: 
+  preprint: /files/2019-LSC-EuroVis.pdf
   official: 
   authors:
     - Yang Liu
@@ -16,17 +44,17 @@
   venue_location: Porto, Portugal
   venue_url: https://www.eurovis.org/
   highlight: true
+  video: https://www.youtube.com/watch?v=war0DRbRGNE&feature=youtu.be
   link: 
   type:
     - Conference
-  conditional: true
 
 - id: reader-view
   title: "The Impact of Web Browser Reader Views on Reading Speed and User Experience"
   year: 2019
-  doi: 
+  doi: 10.1145/3290605.3300754
   preprint: /files/2019-Reader-View-CHI.pdf
-  official: 
+  official: https://dl.acm.org/citation.cfm?id=3300754
   authors:
     - Qisheng Li
     - Meredith Ringel Morris
@@ -86,6 +114,6 @@
   venue_location: Limassol, Cyprus
   venue_url: http://iui.acm.org/2017/
   highlight: true
-  link: 
+  link: http://nokomis.macalester.edu/wmf_en/static/index.html
   type:
     - Conference
