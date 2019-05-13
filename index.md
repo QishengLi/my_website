@@ -17,7 +17,7 @@ I am broadly interested in human-computer interaction, accessibility and social 
 </div>
 
 <div class="me" markdown="1">
-<img src="{{ '/images/profile.jpg' | relative_url }}" alt="Image of me">
+<img src="{{ '/images/headshot.jpeg' | relative_url }}" alt="Image of me">
 
 {:.no-list}
 * liqs [at] cs.washington.edu
