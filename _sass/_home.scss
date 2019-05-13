@@ -253,6 +253,22 @@
   .more-intro {
     font-size: 1.1em;
   }
+
+  @include media-query($on-palm) {
+    .columns {
+      flex-direction: column;
+      align-items: center;
+  
+      .intro {
+        order: 2;
+      }
+      .me {
+        order: 1;
+        margin-left: 0;
+      }
+    } 
+  }
+
  
 }
 
