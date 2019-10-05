@@ -11,7 +11,7 @@ title: "Home"
 <div class="columns" markdown="1">
 <div class="intro" markdown="1">
 Hello, my name is Qisheng Li. 
-I am a 2nd year PhD student at [Paul G. Allen School of Computer Science & Engineering][allen-school] at the [University of Washington][uw], advised by [Katharina Reinecke][kr-website]. Please visit our virtual lab at [Lab in the Wild][labinthewild].
+I am a 3rd year PhD student at [Paul G. Allen School of Computer Science & Engineering][allen-school] at the [University of Washington][uw], advised by [Katharina Reinecke][kr-website]. Please visit our virtual lab at [Lab in the Wild][labinthewild].
 
 I am broadly interested in human-computer interaction, accessibility and social computing. I am currently doing research on developing methods for researchers to conduct controlled experiments at large scale, understanding how people with different cultural background and various abilities perceive and engage with technologies, and providing personalized adaptations for end users. 
 </div>
