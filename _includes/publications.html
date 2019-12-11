@@ -51,6 +51,12 @@
       </a>
     {% endif %}
 
+    {% if pub.link %}
+      <a target="_blank" href="{{ pub.link | relative_url }}">
+        <i class="fas fa-home" aria-hidden="true"></i> Website
+      </a>
+    {% endif %}
+
     {% if pub.blog %}
       <a target="_blank" href="{{ pub.blog }}">
         <i class="fas fa-newspaper" aria-hidden="true"></i> Article
