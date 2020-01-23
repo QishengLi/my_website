@@ -1,15 +1,15 @@
 - id: virtual_chinrest
   title: "Controlling for Participants’ Viewing Distance in Large-Scale, Psychophysical Online Experiments using a Virtual Chinrest"
-  year: 2019
-  doi: 
-  preprint: 
-  official: 
+  year: 2020
+  doi: 10.1038/s41598-019-57204-1
+  preprint: /files/2020-Virtual-Chinrest.pdf
+  official: https://www.nature.com/articles/s41598-019-57204-1
   authors:
     - Qisheng Li
     - Sung Jun Joo
     - Jason Yeatman
     - Katharina Reinecke
-  venue: Scientific Reports (in press)
+  venue: Scientific Reports
   venue_tags:
     - 
   venue_location: 
