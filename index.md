@@ -13,11 +13,11 @@ title: "Home"
 Hello, my name is Qisheng Li. 
 I am a 3rd year PhD student at [Paul G. Allen School of Computer Science & Engineering][allen-school] at the [University of Washington][uw], advised by [Katharina Reinecke][kr-website]. Please visit our virtual lab at [Lab in the Wild][labinthewild].
 
-I am broadly interested in human-computer interaction, accessibility and social computing. I am currently doing research on developing methods for researchers to conduct controlled experiments at large scale, understanding how people with different cultural background and various abilities perceive and engage with technologies, and providing personalized adaptations for end users. 
+I am broadly interested in human-computer interaction, accessibility and social computing. I am currently focusing on understanding how people with cognitive disabilities (e.g. autism, dyslexia) use technology, facilitating researchers to conduct controlled experiments of disability studies online at large scale, and developing personalized adaptations for end users. 
 </div>
 
 <div class="me" markdown="1">
-<img src="{{ '/images/headshot.jpeg' | relative_url }}" alt="Image of me">
+<img src="{{ '/images/headshot.jpeg' | relative_url }}" alt="Image of Qisheng Li">
 
 {:.no-list}
 * liqs [at] cs.washington.edu
