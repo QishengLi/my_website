@@ -62,7 +62,7 @@ For more details, please check out my [CV][cv].
 {% assign awardinsts = site.data.awards | group_by:"institution" %}
 {% for institution in awardinsts%}
 ##### {{institution.name}}
-{% for award in site.data.awards %}
+{% for award in institution.items %}
   {% include awards.html award=award %}
 {% endfor %}
 {% endfor %}
