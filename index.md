@@ -47,8 +47,8 @@ For more details, please check out my [CV][cv].
 <div class="pubs" markdown="1">
 {% assign pubyears = site.data.publications | group_by:"year" %}
 {% for year in pubyears %}
-### {{ year.name }}
-{:#y{{ year.name }} .year}
+<!-- ### {{ year.name }}
+{:#y{{ year.name }} .year} -->
 {% for pub in year.items %}
   {% include publications.html pub=pub %}
 {% endfor %}
