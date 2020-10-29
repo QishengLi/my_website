@@ -11,9 +11,9 @@ title: "Home"
 <div class="columns" markdown="1">
 <div class="intro" markdown="1">
 Hello, my name is Qisheng Li (李其声). 
-I am a 3rd year PhD student at [Paul G. Allen School of Computer Science & Engineering][allen-school] at the [University of Washington][uw], advised by [Katharina Reinecke][kr-website]. Please visit our virtual lab at [Lab in the Wild][labinthewild].
+I am a 4th year PhD student at [Paul G. Allen School of Computer Science & Engineering][allen-school] at the [University of Washington][uw], advised by [Katharina Reinecke][kr-website].
 
-I am broadly interested in human-computer interaction, accessibility and social computing. I am currently focusing on understanding how people with cognitive disabilities (e.g. autism, dyslexia) use technology, facilitating researchers to conduct controlled experiments of disability studies online at large scale, and developing personalized adaptations for end users. 
+I am broadly interested in human-computer interaction and accessibility. My current research is twofold: I <b>develop methods</b> for studying people with disabilities <b>at scale</b>. I also use the data collected and other techniques, such as machine learning, to <b>develop systems</b> that improve the accessibility for people with disabilities; I am particularly interested in <b>cognitive disabilities</b>, such as dyslexia.
 </div>
 
 <div class="me" markdown="1">
@@ -21,7 +21,8 @@ I am broadly interested in human-computer interaction, accessibility and social 
 
 {:.no-list}
 * liqs [at] cs.washington.edu
-* Paul G. Allen Center Room 386
+* <strike>Paul G. Allen Center Room 386</strike>
+* Currently WFH with my [corgi puppy][puppy]
 </div>
 </div>
 
@@ -31,7 +32,7 @@ For more details, please check out my [CV][cv].
 </div>
 </div>
 
-<div id="projects" markdown="1">
+<!-- <div id="projects" markdown="1">
 ## Projects
 <div class="projects" markdown="1">
 <div class="grid" markdown="1">
@@ -40,15 +41,15 @@ For more details, please check out my [CV][cv].
 {% endfor %}
 </div>
 </div>
-</div>
+</div> -->
 
 <div id="publications" markdown="1">
 ## Publications
 <div class="pubs" markdown="1">
 {% assign pubyears = site.data.publications | group_by:"year" %}
 {% for year in pubyears %}
-<!-- ### {{ year.name }}
-{:#y{{ year.name }} .year} -->
+<!-- ### {{ year.name }} -->
+<!-- {:#y{{ year.name }} .year} -->
 {% for pub in year.items %}
   {% include publications.html pub=pub %}
 {% endfor %}
@@ -83,4 +84,5 @@ For more details, please check out my [CV][cv].
 [labinthewild]: https://labinthewild.org
 [macalester]: http://macalester.edu
 [cv]: /~liqs/files/Qisheng_Li_CV.pdf
+[puppy]: https://www.instagram.com/sweetpotato.corgi/
 

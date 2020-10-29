@@ -66,7 +66,7 @@
   venue_location: 
   venue_url: 
   awards: Special Issue on Highlights of ACM IUI 2017
-  highlight: true
+  highlight: false
   link: http://nokomis.macalester.edu/wmf_en/static/index.html
   type:
     - Journal
@@ -158,7 +158,7 @@
     - IUI
   venue_location: Limassol, Cyprus
   venue_url: http://iui.acm.org/2017/
-  highlight: true
+  highlight: false
   link: http://nokomis.macalester.edu/wmf_en/static/index.html
   type:
     - Conference
