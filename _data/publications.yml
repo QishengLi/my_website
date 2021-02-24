@@ -1,6 +1,31 @@
+- id: voicemoji
+  title: "Voicemoji: Emoji entry using voice for visually impaired people"
+  year: 2021
+  doi: 
+  preprint: 
+  arxiv:
+  official: 
+  authors:
+    - Mingrui "Ray" Zhang
+    - Ruolin Wang
+    - Xuhai Xu
+    - Qisheng Li
+    - Ather Sharif
+    - Jacob O. Wobbrock
+  venue: CHI
+  venue_tags:
+    - 
+  venue_location: 
+  venue_url: https://chi2021.acm.org/
+  highlight: true
+  video: 
+  link: 
+  type:
+    - Conference
+
 - id: mod_conversation
   title: "The Effect of Moderation on Online Mental Health Conversations"
-  year: 2020
+  year: 2021
   doi: 
   preprint: /files/2020-mod_conversation.pdf
   arxiv:
@@ -10,11 +35,11 @@
     - Tal August
     - Qisheng Li
     - Tim Althoff
-  venue: Accepted to ICWSM 2021
+  venue: ICWSM
   venue_tags:
     - 
   venue_location: 
-  venue_url: 
+  venue_url: https://www.icwsm.org/2021/index.html
   highlight: true
   video: 
   link: 
