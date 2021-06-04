@@ -1,10 +1,35 @@
+- id: mod_conversation
+  title: "The Effect of Moderation on Online Mental Health Conversations"
+  year: 2021
+  doi: 
+  preprint: /files/2020-mod_conversation.pdf
+  arxiv:
+  official: https://ojs.aaai.org/index.php/ICWSM/article/view/18100
+  authors:
+    - David Wadden
+    - Tal August
+    - Qisheng Li
+    - Tim Althoff
+  venue: ICWSM
+  venue_tags:
+    - 
+  venue_location: 
+  venue_url: https://www.icwsm.org/2021/index.html
+  highlight: true
+  awards: Best Paper Award
+  video: 
+  link: 
+  type:
+    - Conference
+
 - id: voicemoji
   title: "Voicemoji: Emoji entry using voice for visually impaired people"
   year: 2021
-  doi: 
-  preprint: 
+  doi: 10.1145/3411764.3445338
+  preprint: /files/2021-Voicemoji.pdf
   arxiv:
-  official: 
+  official: https://dl.acm.org/doi/10.1145/3411764.3445338
+  video: https://www.youtube.com/watch?v=4C9UPHmtHmk
   authors:
     - Mingrui "Ray" Zhang
     - Ruolin Wang
@@ -18,33 +43,10 @@
   venue_location: 
   venue_url: https://chi2021.acm.org/
   highlight: true
-  video: 
-  link: 
+  link: https://github.com/DrustZ/VoiceEmoji
   type:
     - Conference
 
-- id: mod_conversation
-  title: "The Effect of Moderation on Online Mental Health Conversations"
-  year: 2021
-  doi: 
-  preprint: /files/2020-mod_conversation.pdf
-  arxiv:
-  official: 
-  authors:
-    - David Wadden
-    - Tal August
-    - Qisheng Li
-    - Tim Althoff
-  venue: ICWSM
-  venue_tags:
-    - 
-  venue_location: 
-  venue_url: https://www.icwsm.org/2021/index.html
-  highlight: true
-  video: 
-  link: 
-  type:
-    - Conference
 
 - id: virtual_chinrest
   title: "Controlling for Participants’ Viewing Distance in Large-Scale, Psychophysical Online Experiments using a Virtual Chinrest"
@@ -115,7 +117,7 @@
   venue_url: https://www.eurovis.org/
   highlight: true
   video: https://www.youtube.com/watch?v=war0DRbRGNE&feature=youtu.be
-  link: 
+  link: https://github.com/uwdata/latent-space-cartography
   type:
     - Conference
 
