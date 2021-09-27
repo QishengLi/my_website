@@ -11,7 +11,7 @@ title: "Home"
 <div class="columns" markdown="1">
 <div class="intro" markdown="1">
 Hello, my name is Qisheng Li (李其声). 
-I am a 4th year PhD student at [Paul G. Allen School of Computer Science & Engineering][allen-school] at the [University of Washington][uw], advised by [Katharina Reinecke][kr-website].
+I am a 5th year PhD student at [Paul G. Allen School of Computer Science & Engineering][allen-school] at the [University of Washington][uw], advised by [Katharina Reinecke][kr-website].
 
 I am broadly interested in human-computer interaction and accessibility. My current research is twofold: I <b>develop methods</b> for studying people with disabilities <b>at scale</b>. I also use the data collected and other techniques, such as machine learning, to <b>develop systems</b> that improve the accessibility for people with disabilities; I am particularly interested in <b>cognitive disabilities</b>, such as dyslexia.
 </div>
@@ -44,7 +44,7 @@ For more details, please check out my [CV][cv].
 </div> -->
 
 <div id="publications" markdown="1">
-## Publications
+## Selected Publications
 <div class="pubs" markdown="1">
 {% assign pubyears = site.data.publications | group_by:"year" %}
 {% for year in pubyears %}
