@@ -1,15 +1,16 @@
 - id: online-tests-disabilities
   title: "How Online Tests Contribute to the Support System for People With Cognitive and Mental Disabilities"
   year: 2021
-  doi: 
+  doi: 10.1145/3441852.3471229
   preprint: /files/2021-online-tests-ASSETS.pdf
-  official: 
+  official: https://dl.acm.org/doi/10.1145/3441852.3471229
+  video: https://youtu.be/Y5tmOC6cQUA
   authors:
     - Qisheng Li
     - Josephine Lee
     - Christina Zhang
     - Katharina Reinecke
-  venue: To Appear in ASSETS
+  venue: ASSETS
   venue_tags:
     - ASSETS
   venue_location: 
@@ -31,7 +32,7 @@
     - Qisheng Li
     - Ather Sharif
     - Katharina Reinecke
-  venue: To Appear in ASSETS (Poster)
+  venue: ASSETS (Poster)
   venue_tags:
     - ASSETS
   venue_location: 
