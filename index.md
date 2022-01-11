@@ -11,10 +11,14 @@ title: "Home"
 <div class="columns" markdown="1">
 <div class="intro" markdown="1">
 Hello, my name is Qisheng Li (李其声). 
-I am a 5th year PhD student at [Paul G. Allen School of Computer Science & Engineering][allen-school] at the [University of Washington][uw], advised by [Katharina Reinecke][kr-website].
+I am a 5th year PhD student at [Paul G. Allen School of Computer Science & Engineering][allen-school] at the [University of Washington][uw], advised by [Katharina Reinecke][kr-website]. During my PhD, I've interned at Adobe Research (x2), Microsoft Research and Google Research.
 
 I am broadly interested in human-computer interaction and accessibility. My current research is twofold: I <b>develop methods</b> for studying people with disabilities <b>at scale</b>. I also use the data collected and other techniques, such as machine learning, to <b>develop systems</b> that improve the accessibility for people with disabilities; I am particularly interested in <b>cognitive disabilities</b>, such as dyslexia.
+
+<span style='color:red'>📢I'm on the job market this year (2022) and I'm looking for industrial research positions.</span> Please feel free to contact me with any opportunities!
 </div>
+
+
 
 <div class="me" markdown="1">
 <img src="{{ '/images/headshot.jpeg' | relative_url }}" alt="Image of Qisheng Li">
