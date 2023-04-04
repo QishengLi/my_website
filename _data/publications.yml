@@ -1,0 +1,236 @@
+- id: online-tests-disabilities
+  title: "How Online Tests Contribute to the Support System for People With Cognitive and Mental Disabilities"
+  year: 2021
+  doi: 10.1145/3441852.3471229
+  preprint: /files/2021-online-tests-ASSETS.pdf
+  official: https://dl.acm.org/doi/10.1145/3441852.3471229
+  video: https://youtu.be/Y5tmOC6cQUA
+  authors:
+    - Qisheng Li
+    - Josephine Lee
+    - Christina Zhang
+    - Katharina Reinecke
+  venue: ASSETS
+  venue_tags:
+    - ASSETS
+  venue_location: 
+  venue_url: https://assets21.sigaccess.org
+  highlight: true
+  awards: Best Paper Award
+  link: 
+  type:
+    - Conference
+
+- id: disability-language
+  title: "Respectful Language as Perceived by People with Disabilities"
+  year: 2021
+  doi: 
+  preprint: /files/2021-disability-language-ASSETS.pdf
+  official: 
+  authors:
+    - Lior Levy
+    - Qisheng Li
+    - Ather Sharif
+    - Katharina Reinecke
+  venue: ASSETS (Poster)
+  venue_tags:
+    - ASSETS
+  venue_location: 
+  venue_url: https://assets21.sigaccess.org
+  highlight: true
+  awards: 
+  link: 
+  type:
+    - Conference
+
+- id: mod_conversation
+  title: "The Effect of Moderation on Online Mental Health Conversations"
+  year: 2021
+  doi: 
+  preprint: /files/2020-mod_conversation.pdf
+  arxiv:
+  official: https://ojs.aaai.org/index.php/ICWSM/article/view/18100
+  authors:
+    - David Wadden
+    - Tal August
+    - Qisheng Li
+    - Tim Althoff
+  venue: ICWSM
+  venue_tags:
+    - 
+  venue_location: 
+  venue_url: https://www.icwsm.org/2021/index.html
+  highlight: true
+  awards: Best Paper Award (Outstanding Study Design)
+  video: 
+  link: 
+  type:
+    - Conference
+
+- id: voicemoji
+  title: "Voicemoji: Emoji entry using voice for visually impaired people"
+  year: 2021
+  doi: 10.1145/3411764.3445338
+  preprint: /files/2021-Voicemoji.pdf
+  arxiv:
+  official: https://dl.acm.org/doi/10.1145/3411764.3445338
+  video: https://www.youtube.com/watch?v=4C9UPHmtHmk
+  authors:
+    - Mingrui "Ray" Zhang
+    - Ruolin Wang
+    - Xuhai Xu
+    - Qisheng Li
+    - Ather Sharif
+    - Jacob O. Wobbrock
+  venue: CHI
+  venue_tags:
+    - 
+  venue_location: 
+  venue_url: https://chi2021.acm.org/
+  highlight: true
+  link: https://github.com/DrustZ/VoiceEmoji
+  type:
+    - Conference
+
+
+- id: virtual_chinrest
+  title: "Controlling for Participants’ Viewing Distance in Large-Scale, Psychophysical Online Experiments using a Virtual Chinrest"
+  year: 2020
+  doi: 10.1038/s41598-019-57204-1
+  preprint: /files/2020-Virtual-Chinrest.pdf
+  official: https://www.nature.com/articles/s41598-019-57204-1
+  authors:
+    - Qisheng Li
+    - Sung Jun Joo
+    - Jason Yeatman
+    - Katharina Reinecke
+  venue: Scientific Reports, 2020
+  venue_tags:
+    - 
+  venue_location: 
+  venue_url: 
+  awards: 
+  highlight: true
+  link: https://github.com/QishengLi/virtual_chinrest
+  type:
+    - Journal
+
+- id: cartograph_extend
+  title: "Toward Universal Spatialization Through Wikipedia-Based Semantic Enhancement"
+  year: 2019
+  doi: 10.1145/3213769
+  preprint: /files/2019-Sen-Cartograph.pdf
+  official: https://dl.acm.org/citation.cfm?doid=3320251.3213769
+  authors:
+    - Shilad Sen
+    - Anja Beth Swoap
+    - Qisheng Li
+    - Brooke Boatman
+    - Ilse Dippenaar
+    - Rebecca Gold
+    - Monica Ngo
+    - Sarah Pujol
+    - Bret Jackson
+    - Brent Hecht
+  venue: ACM Transactions on Interactive Intelligent Systems (TiiS), 2019
+  venue_tags:
+    - 
+  venue_location: 
+  venue_url: 
+  awards: Special Issue on Highlights of ACM IUI 2017
+  highlight: false
+  link: http://nokomis.macalester.edu/wmf_en/static/index.html
+  type:
+    - Journal
+
+
+- id: LSC
+  title: "Latent Space Cartography: Visual Analysis of Vector Space Embeddings"
+  year: 2019
+  doi: 
+  preprint: /files/2019-LSC-EuroVis.pdf
+  official: 
+  authors:
+    - Yang Liu
+    - Eunice Jun
+    - Qisheng Li
+    - Jeffery Heer
+  venue: EuroVis
+  venue_tags:
+    - EuroVis
+  venue_location: Porto, Portugal
+  venue_url: https://www.eurovis.org/
+  highlight: true
+  video: https://www.youtube.com/watch?v=war0DRbRGNE&feature=youtu.be
+  link: https://github.com/uwdata/latent-space-cartography
+  type:
+    - Conference
+
+- id: reader-view
+  title: "The Impact of Web Browser Reader Views on Reading Speed and User Experience"
+  year: 2019
+  doi: 10.1145/3290605.3300754
+  preprint: /files/2019-Reader-View-CHI.pdf
+  official: https://dl.acm.org/citation.cfm?id=3300754
+  authors:
+    - Qisheng Li
+    - Meredith Ringel Morris
+    - Adam Fourney
+    - Kevin Larson
+    - Katharina Reinecke
+  venue: CHI
+  venue_tags:
+    - CHI
+  venue_location: Glasgow, UK
+  venue_url: https://chi2019.acm.org/
+  highlight: true
+  link: 
+  type:
+    - Conference
+
+- id: volunteer-disabilities
+  title: "Volunteer-Based Online Studies With Older Adults and People with Disabilities"
+  year: 2018
+  doi: 10.1145/3234695.3236360
+  preprint: /files/2018-Volunteer-Disabilities-ASSETS.pdf
+  official: https://dl.acm.org/citation.cfm?id=3236360
+  authors:
+    - Qisheng Li
+    - Krzysztof Z. Gajos
+    - Katharina Reinecke
+  venue: ASSETS
+  venue_tags:
+    - ASSETS
+  venue_location: Galway, Ireland
+  venue_url: https://assets18.sigaccess.org
+  highlight: true
+  link: 
+  type:
+    - Conference
+
+- id: cartograph
+  title: "Cartograph: Unlocking Thematic Cartography Through Semantic Enhancement"
+  year: 2017
+  doi: 10.1145/3025171.3025233
+  preprint: /files/2017-Cartograph-IUI.pdf
+  official: https://dl.acm.org/citation.cfm?id=3025233
+  authors:
+    - Shilad Sen
+    - Anja Beth Swoap
+    - Qisheng Li
+    - Brooke Boatman
+    - Ilse Dippenaar
+    - Rebecca Gold
+    - Monica Ngo
+    - Sarah Pujol
+    - Bret Jackson
+    - Brent Hecht
+  venue: IUI
+  venue_tags:
+    - IUI
+  venue_location: Limassol, Cyprus
+  venue_url: http://iui.acm.org/2017/
+  highlight: false
+  link: http://nokomis.macalester.edu/wmf_en/static/index.html
+  type:
+    - Conference
