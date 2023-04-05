@@ -14,7 +14,7 @@ Hello, my name is Qisheng Li.
 I am currently an AI/ML resident in the Human-Centered Machine Intelligence team at [Apple][apple].
 I recently received my Ph.D. in Computer Science & Engineering from [Paul G. Allen School][allen-school] at the [University of Washington][uw], advised by [Katharina Reinecke][kr-website]. During my PhD, I've interned at Adobe Research (x2), Microsoft Research and Google Research.
 
-My research interests span across <b>human-computer interaction</b>>, <b>accessibility</b>, and <b>applied machine learning</b>. My current research revolves around the design and development of ML-powered <b>AR/VR</b> applications for blind and low-vision users. 
+My research interests span across <b>human-computer interaction</b>, <b>accessibility</b>, and <b>applied machine learning</b>. My current research revolves around the design and development of ML-powered <b>AR/VR</b> applications for blind and low-vision users. 
 
 In my Ph.D. thesis, I employed <b>mixed methods</b> to demonstrate the feasibility of conducting large-scale online experiments with individuals with cognitive disabilities that are self-motivating, while maintaining <b>rigorous experimental designs</b>. Additionally, my experience in <b>data science</b> and machine learning has been honed through a variety of courseworks, projects and internships.
 
