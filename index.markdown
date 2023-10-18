@@ -12,7 +12,7 @@ title: "Home"
 <div class="intro" markdown="1">
 Hello, my name is Qisheng Li. 
 I'm currently a visiting Research Scientist at [Meta Reality Lab Research (RL-R)][meta-rlr]. Previously, I was an AI/ML resident in the Human-Centered Machine Intelligence team at [Apple][apple] from 2022-2023.
-I received my Ph.D. in [Computer Science & Engineering][allen-school] from the [University of Washington][uw], advised by [Katharina Reinecke][kr-website]. During my PhD, I've interned at Adobe Research (x2), Microsoft Research and Google Research.
+I received my Ph.D. in [Computer Science & Engineering][allen-school] from the [University of Washington][uw], advised by [Katharina Reinecke][kr-website]. During my PhD, I've interned at Adobe Research (x2), Microsoft Research, and Google Research.
 
 My research interests span across <b>human-computer interaction</b>, <b>artificial intelligence</b>, and <b>accessibility</b>. My current research revolves around accessibility and productivity tools with <b>multimodal LLMs</b>. I worked on ML-powered <b>AR/VR</b> applications for blind and low-vision users at Apple. 
 
