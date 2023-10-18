@@ -1,3 +1,5 @@
+@use "sass:math";
+
 .post-list {
   .year {
     font-size: 1.4em;
@@ -158,15 +160,15 @@
 /* Images */
 
 .half {
-  max-width: $content-width / 2;
+  max-width: math.div($content-width, 2);
 }
 
 .third {
-  max-width: $content-width / 3;
+  max-width: math.div($content-width, 3);
 }
 
 .two-thirds {
-  max-width: $content-width / 3 * 2;
+  max-width: math.div($content-width, 3) * 2;
 }
 
 .right {

@@ -1,3 +1,145 @@
+- id: StammerTalk
+  title: "“I Want to Publicize My Stutter”: Community-led Collection and Curation of Chinese Stuttered Speech Data"
+  year: 2023
+  doi: 
+  preprint: /files/2024-StammerTalk.pdf
+  official: 
+  authors:
+    - Qisheng Li
+    - Shaomei Wu
+  venue: Under Review, 2023
+  venue_tags:
+    - CHI
+  venue_location: 
+  venue_url: 
+  highlight: true
+  link: 
+  type:
+    - Conference
+
+- id: readability_research
+  title: "Readability research: An interdisciplinary approach"
+  year: 2022
+  doi: 10.1561/1100000089
+  preprint: 
+  official: https://www.nowpublishers.com/article/Details/HCI-089
+  authors:
+    - Sofie Beier
+    - ...
+    - Qisheng Li
+    - ...
+    - Benjamin Wolfe
+  venue: Foundations and Trends® in Human–Computer Interaction, 2022
+  venue_tags:
+    - 
+  venue_location: 
+  venue_url: 
+  awards: 
+  highlight: false
+  link: 
+  type:
+    - Journal
+
+- id: ASR_BERTScore
+  title: "Assessing ASR Model Quality on Disordered Speech using BERTScore"
+  year: 2022
+  doi: 10.21437/S4SG.2022-6
+  preprint: /files/2022-ASR-INTERSPEECH.pdf
+  official: https://isca-speech.org/archive/s4sg_2022/tobin22_s4sg.html
+  video: https://youtu.be/ge26C_mXqys
+  authors:
+    - Jimmy Tobin
+    - Qisheng Li
+    - Subhashini Venugopalan
+    - Katie Seaver
+    - Richard Cave
+    - Katrin Tomanek
+  venue: INTERSPEECH (Speech for Social Good Workshop)
+  venue_tags:
+    - Interspeech
+  venue_location: 
+  venue_url: https://s4sg-workshop.github.io/
+  highlight: true
+  awards: 
+  link: 
+  type:
+    - Conference
+
+- id: AC_CSCW
+  title: "Joint Media Engagement in Families Playing Animal Crossing: New Horizons during the COVID-19 Pandemic"
+  year: 2022
+  doi: 10.1145/3512947
+  preprint: /files/2022-AC-CSCW.pdf
+  official: https://dl.acm.org/doi/10.1145/3512947
+  video: 
+  authors:
+    - Jesse J. Martinez
+    - Travis W. Windleharth
+    - Qisheng Li
+    - Arpita Bhattacharya
+    - Katy E. Pearce
+    - Jason Yip
+    - Jin Ha Lee
+  venue: CSCW
+  venue_tags:
+    - CSCW
+  venue_location: 
+  venue_url: https://cscw.acm.org/2022/
+  highlight: true
+  awards: 
+  link: 
+  type:
+    - Journal
+
+- id: AC_Coping
+  title: "Families Playing Animal Crossing Together: Coping With Video Games During the COVID-19 Pandemic"
+  year: 2022
+  doi: 10.1177/15554120211056125
+  preprint: /files/2022-AC-Coping-Family.pdf
+  official: https://journals.sagepub.com/doi/10.1177/15554120211056125
+  video: 
+  authors:
+    - Katy Pearce
+    - Jason Yip
+    - Jin Ha Lee
+    - Jesse Martinez
+    - Travis Windleharth
+    - Arpita Bhattacharya
+    - Qisheng Li
+  venue: Games and Culture, 2022
+  venue_location: 
+  venue_url: 
+  highlight: false
+  awards: 
+  link: 
+  type:
+    - Journal
+
+- id: AC_Coping_Parents
+  title: "“I Need to Just Have a Couple of White Claws and Play Animal Crossing Tonight”: Parents Coping With Video Games During the COVID-19 Pandemic"
+  year: 2022
+  doi: 10.1037/ppm0000367
+  preprint: /files/2022-AC-Coping-Parents.pdf
+  official: http://dx.doi.org/10.1037/ppm0000367
+  video: 
+  authors:
+    - Katy Pearce
+    - Jason Yip
+    - Jin Ha Lee
+    - Jesse Martinez
+    - Travis Windleharth
+    - Qisheng Li
+    - Arpita Bhattacharya
+  venue: Psychology of Popular Media, 2022
+  venue_location: 
+  venue_url: 
+  highlight: false
+  awards: 
+  link: 
+  type:
+    - Journal
+
+
 - id: online-tests-disabilities
   title: "How Online Tests Contribute to the Support System for People With Cognitive and Mental Disabilities"
   year: 2021
@@ -24,9 +166,9 @@
 - id: disability-language
   title: "Respectful Language as Perceived by People with Disabilities"
   year: 2021
-  doi: 
+  doi: 10.1145/3441852.3476534
   preprint: /files/2021-disability-language-ASSETS.pdf
-  official: 
+  official: https://dl.acm.org/doi/10.1145/3441852.3476534
   authors:
     - Lior Levy
     - Qisheng Li
@@ -37,7 +179,7 @@
     - ASSETS
   venue_location: 
   venue_url: https://assets21.sigaccess.org
-  highlight: true
+  highlight: false
   awards: 
   link: 
   type:
