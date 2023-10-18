@@ -11,14 +11,14 @@ title: "Home"
 <div class="columns" markdown="1">
 <div class="intro" markdown="1">
 Hello, my name is Qisheng Li. 
-I am currently an AI/ML resident in the Human-Centered Machine Intelligence team at [Apple][apple].
-I recently received my Ph.D. in Computer Science & Engineering from [Paul G. Allen School][allen-school] at the [University of Washington][uw], advised by [Katharina Reinecke][kr-website]. During my PhD, I've interned at Adobe Research (x2), Microsoft Research and Google Research.
+I'm currently a visiting Research Scientist at [Meta Reality Lab Research (RL-R)][meta-rlr]. Previously, I was an AI/ML resident in the Human-Centered Machine Intelligence team at [Apple][apple] from 2022-2023.
+I received my Ph.D. in [Computer Science & Engineering][allen-school] from the [University of Washington][uw], advised by [Katharina Reinecke][kr-website]. During my PhD, I've interned at Adobe Research (x2), Microsoft Research and Google Research.
 
-My research interests span across <b>human-computer interaction</b>, <b>accessibility</b>, and <b>applied machine learning</b>. My current research revolves around the design and development of ML-powered <b>AR/VR</b> applications for blind and low-vision users. 
+My research interests span across <b>human-computer interaction</b>, <b>artificial intelligence</b>, and <b>accessibility</b>. My current research revolves around accessibility and productivity tools with <b>multimodal LLMs</b>. I worked on ML-powered <b>AR/VR</b> applications for blind and low-vision users at Apple. 
 
-In my Ph.D. thesis, I employed <b>mixed methods</b> to demonstrate the feasibility of conducting large-scale online experiments with individuals with cognitive disabilities that are self-motivating, while maintaining <b>rigorous experimental designs</b>. Additionally, my experience in <b>data science</b> and machine learning has been honed through a variety of courseworks, projects and internships.
+In my Ph.D. thesis, I employed <b>mixed methods</b> to demonstrate the feasibility of conducting large-scale online experiments with individuals with cognitive disabilities that are self-motivating, while maintaining <b>rigorous experimental designs</b>.
 
-<span style='color:red'>📢 I'm looking for industrial research positions this year (2023).</span> Please feel free to contact me with any opportunities!
+<span style='color:red'>📢 I'm looking for industrial research positions next year (2024).</span> Please feel free to contact me with any opportunities!
 </div>
 
 
@@ -49,14 +49,16 @@ For more details, please check out my [CV][cv].
 </div> -->
 
 <div id="publications" markdown="1">
-## Selected Publications
+## Selected <a href="{{ "/publications/" | relative_url }}">Publications</a>
 <div class="pubs" markdown="1">
 {% assign pubyears = site.data.publications | group_by:"year" %}
 {% for year in pubyears %}
 <!-- ### {{ year.name }} -->
 <!-- {:#y{{ year.name }} .year} -->
 {% for pub in year.items %}
-  {% include publications.html pub=pub %}
+  {% if pub.highlight %}
+    {% include publications.html pub=pub %}
+  {% endif %}
 {% endfor %}
 {% endfor %}
 </div>
@@ -82,6 +84,7 @@ For more details, please check out my [CV][cv].
 {% endfor %}
 </div> -->
 
+[meta-rlr]: https://about.meta.com/realitylabs/
 [apple]: https://www.apple.com/
 [allen-school]: https://www.cs.washington.edu/
 [uw]: http:uw.edu
