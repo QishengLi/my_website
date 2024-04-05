@@ -1,17 +1,17 @@
 - id: StammerTalk-Data
   title: "Towards Fair and Inclusive Speech Recognition for Stuttering: Community-led Chinese Stuttered Speech Dataset Creation and Benchmarking"
-  year: 2023
-  doi: 
+  year: 2024
+  doi: 10.1145/3613905.3650950
   preprint: /files/2024-StammerTalk-Data.pdf
-  official: 
+  official: https://dl.acm.org/doi/10.1145/3613905.3650950
   authors:
     - Qisheng Li
     - Shaomei Wu
-  venue: Under Review, 2024
+  venue: CHI LBW, 2024
   venue_tags:
     - CHI
   venue_location: 
-  venue_url: 
+  venue_url: https://chi2024.acm.org/
   highlight: true
   link: 
   type:
@@ -19,7 +19,7 @@
 
 - id: StammerTalk
   title: "“I Want to Publicize My Stutter”: Community-led Collection and Curation of Chinese Stuttered Speech Data"
-  year: 2023
+  year: 2024
   doi: 
   preprint: /files/2024-StammerTalk.pdf
   official: 
