@@ -21,7 +21,7 @@
 title: Qisheng Li
 email: lqsh2013@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  © 2023 Qisheng Li
+  © 2024 Qisheng Li
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "qishengli.me" # the base hostname & protocol for your site, e.g. http://example.com
 github_url: "https://github.com/qishengli/"

@@ -1,22 +1,3 @@
-- id: StammerTalk-Data
-  title: "Towards Fair and Inclusive Speech Recognition for Stuttering: Community-led Chinese Stuttered Speech Dataset Creation and Benchmarking"
-  year: 2024
-  doi: 10.1145/3613905.3650950
-  preprint: /files/2024-StammerTalk-Data.pdf
-  official: https://dl.acm.org/doi/10.1145/3613905.3650950
-  authors:
-    - Qisheng Li
-    - Shaomei Wu
-  venue: CHI (Late-Breaking Work) 2024
-  venue_tags:
-    - CHI
-  venue_location: 
-  venue_url: https://chi2024.acm.org/
-  highlight: true
-  link: 
-  type:
-    - Conference
-
 - id: StammerTalk
   title: "“I Want to Publicize My Stutter”: Community-led Collection and Curation of Chinese Stuttered Speech Data"
   year: 2024
@@ -26,7 +7,7 @@
   authors:
     - Qisheng Li
     - Shaomei Wu
-  venue: CSCW 2024
+  venue: CSCW
   venue_tags:
     - CSCW
   venue_location: 
@@ -35,6 +16,26 @@
   link: 
   type:
     - Conference
+    
+- id: StammerTalk-Data
+  title: "Towards Fair and Inclusive Speech Recognition for Stuttering: Community-led Chinese Stuttered Speech Dataset Creation and Benchmarking"
+  year: 2024
+  doi: 10.1145/3613905.3650950
+  preprint: /files/2024-StammerTalk-Data.pdf
+  official: https://dl.acm.org/doi/10.1145/3613905.3650950
+  authors:
+    - Qisheng Li
+    - Shaomei Wu
+  venue: CHI (Late-Breaking Work)
+  venue_tags:
+    - CHI
+  venue_location: 
+  venue_url: https://chi2024.acm.org/
+  highlight: true
+  link: 
+  type:
+    - Conference
+
 
 - id: readability_research
   title: "Readability research: An interdisciplinary approach"

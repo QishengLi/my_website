@@ -17,7 +17,6 @@ My research interests span across <b>human-computer interaction</b>, <b>artifici
 
 Previously, I was an AI/ML resident in the Human-Centered Machine Intelligence team at [Apple][apple] from 2022-2023. I received my Ph.D. in [Computer Science & Engineering][allen-school] from the [University of Washington][uw], advised by [Katharina Reinecke][kr-website]. In my Ph.D. thesis, I employed <b>mixed methods</b> to demonstrate the feasibility of conducting large-scale online experiments with individuals with cognitive disabilities that are self-motivating, while maintaining <b>rigorous experimental designs</b>. During my PhD, I've interned at Adobe Research (x2), Microsoft Research, and Google Research.
 
-<span style='color:red'>📢 I'm looking for full-time industrial research positions recently.</span> Please feel free to contact me with any opportunities!
 </div>
 
 
@@ -31,8 +30,7 @@ Previously, I was an AI/ML resident in the Human-Centered Machine Intelligence t
 </div>
 
 <div class="more-intro" markdown="1">
-Before joining UW CSE, I received my triple bachelor's degrees in Mathematics, Computer Science and Economics from [Macalester College][macalester] in St. Paul, Minnesota. 
-For more details, please check out my [CV][cv].
+<span style='color:red'>📢 I'm looking for full-time industrial research positions recently.</span> Please feel free to contact me with any opportunities! For more details, please check out my [CV][cv].
 </div>
 </div>
 
