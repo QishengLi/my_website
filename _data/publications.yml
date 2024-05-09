@@ -7,7 +7,7 @@
   authors:
     - Qisheng Li
     - Shaomei Wu
-  venue: CHI LBW, 2024
+  venue: CHI (Late-Breaking Work) 2024
   venue_tags:
     - CHI
   venue_location: 
@@ -26,11 +26,11 @@
   authors:
     - Qisheng Li
     - Shaomei Wu
-  venue: Under Review, 2024
+  venue: CSCW 2024
   venue_tags:
     - CSCW
   venue_location: 
-  venue_url: 
+  venue_url: https://cscw.acm.org/2024/
   highlight: true
   link: 
   type:

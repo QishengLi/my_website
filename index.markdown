@@ -12,14 +12,12 @@ title: "Home"
 <div class="intro" markdown="1">
 Hello, my name is Qisheng Li. 
 I'm a Research Scientist working on Human-AI/Multimodal Interaction at [Meta Reality Lab Research (RL-R)][meta-rlr]. I'm also a Research Fellow at [AImpower.org][aimpower].
-Previously, I was an AI/ML resident in the Human-Centered Machine Intelligence team at [Apple][apple] from 2022-2023. I received my Ph.D. in [Computer Science & Engineering][allen-school] from the [University of Washington][uw], advised by [Katharina Reinecke][kr-website]. During my PhD, I've interned at Adobe Research (x2), Microsoft Research, and Google Research.
-
-My research interests span across <b>human-computer interaction</b>, <b>artificial intelligence</b>, and <b>accessibility</b>. I'm currently working on evaluating and improving user experience of LLM-enabled AR systems.
+My research interests span across <b>human-computer interaction</b>, <b>artificial intelligence</b>, and <b>accessibility</b>. I'm currently working on building and evaluating AR systems with AI/ML.
 <!-- My current research revolves around accessibility and productivity tools with <b>multimodal LLMs</b>. I worked on ML-powered <b>AR/VR</b> applications for blind and low-vision users at Apple.  -->
 
-In my Ph.D. thesis, I employed <b>mixed methods</b> to demonstrate the feasibility of conducting large-scale online experiments with individuals with cognitive disabilities that are self-motivating, while maintaining <b>rigorous experimental designs</b>.
+Previously, I was an AI/ML resident in the Human-Centered Machine Intelligence team at [Apple][apple] from 2022-2023. I received my Ph.D. in [Computer Science & Engineering][allen-school] from the [University of Washington][uw], advised by [Katharina Reinecke][kr-website]. In my Ph.D. thesis, I employed <b>mixed methods</b> to demonstrate the feasibility of conducting large-scale online experiments with individuals with cognitive disabilities that are self-motivating, while maintaining <b>rigorous experimental designs</b>. During my PhD, I've interned at Adobe Research (x2), Microsoft Research, and Google Research.
 
-<span style='color:red'>📢 I'm looking for industrial research positions recently.</span> Please feel free to contact me with any opportunities!
+<span style='color:red'>📢 I'm looking for full-time industrial research positions recently.</span> Please feel free to contact me with any opportunities!
 </div>
 
 
