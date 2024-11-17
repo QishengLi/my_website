@@ -1,9 +1,9 @@
 - id: StammerTalk
   title: "“I Want to Publicize My Stutter”: Community-led Collection and Curation of Chinese Stuttered Speech Data"
   year: 2024
-  doi: 
+  doi: 10.1145/3687014
   preprint: /files/2024-StammerTalk.pdf
-  official: 
+  official: https://dl.acm.org/doi/10.1145/3687014
   authors:
     - Qisheng Li
     - Shaomei Wu
