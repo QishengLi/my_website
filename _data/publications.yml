@@ -1,3 +1,48 @@
+- id: CollectiveVoices
+  title: "Our Collective Voices: The Social and Technical Values of a Grassroots Chinese Stuttered Speech Dataset"
+  year: 2025
+  doi: 10.1145/3715275.3732179
+  preprint: /files/2025-our_collective_voices.pdf
+  official: https://dl.acm.org/doi/10.1145/3715275.3732179
+  authors:
+    - Jingjing Li*
+    - Qisheng Li*
+    - Rong Gong
+    - Lezhi Wang
+    - Shaomei Wu
+  venue: FAccT
+  venue_tags:
+    - FAccT
+  venue_location: 
+  venue_url: https://facctconference.org/2025/index.html
+  highlight: true
+  link: 
+  type:
+    - Conference
+
+- id: Speech4All
+  title: "Speech AI for All: Promoting Accessibility, Fairness, Inclusivity, and Equity"
+  year: 2025
+  doi: 10.1145/3706599.3706746
+  preprint: /files/2025-speech_ai4all.pdf
+  official: https://dl.acm.org/doi/10.1145/3706599.3706746
+  authors:
+    - Shaomei Wu
+    - Kimi Wenzel
+    - Jingjing Li
+    - Qisheng Li
+    - ...
+    - Nan Bernstein Ratner
+  venue: CHI (Workship)
+  venue_tags:
+    - CHI
+  venue_location: 
+  venue_url: https://chi2025.acm.org/
+  highlight: true
+  link: 
+  type:
+    - Conference
+
 - id: StammerTalk
   title: "“I Want to Publicize My Stutter”: Community-led Collection and Curation of Chinese Stuttered Speech Data"
   year: 2024
